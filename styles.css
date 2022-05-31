@@ -13,7 +13,9 @@
 body {
   background-color: #393E46;
 }
-
+.container p a{
+  color: #4ECCA3;
+}
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
